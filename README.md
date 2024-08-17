@@ -1,7 +1,9 @@
-```
-### Shayari App 
+Here’s the README in markdown format:
 
-Welcome to the Shayari app 
+```markdown
+# Shayari App Update
+
+Welcome to the Shayari app built with [Expo](https://expo.dev)!
 
 ## Get Started
 
@@ -9,7 +11,7 @@ Welcome to the Shayari app
 
    Make sure you have Node.js installed. Then, install the project dependencies:
 
-   ```
+   ```bash
    npm install
    ```
 
@@ -17,7 +19,7 @@ Welcome to the Shayari app
 
    To start the app in development mode, run:
 
-   ```
+   ```bash
    npx expo start
    ```
 
@@ -34,7 +36,7 @@ Welcome to the Shayari app
 
 To reset the project to its initial state:
 
-```
+```bash
 npm run reset-project
 ```
 
