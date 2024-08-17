@@ -1,7 +1,6 @@
-Here’s the README in markdown format:
 
 ```markdown
-# Shayari App Update
+# Shayari App 
 
 Welcome to the Shayari app built with [Expo](https://expo.dev)!
 
